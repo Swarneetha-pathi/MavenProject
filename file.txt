@@ -1,0 +1,6 @@
+[User]
+     user.name ="Swarneetha-pathi"
+     user.email="swarneetha.pathi@wipro.com"
+{config}
+     git config --global core.editor "notepad file -nosession"
+  
